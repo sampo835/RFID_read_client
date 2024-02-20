@@ -1,0 +1,14 @@
+{
+  "name": "arduino_test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sampo835",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^17.2.0"
+  }
+}
